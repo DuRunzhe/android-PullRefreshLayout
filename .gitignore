@@ -21,7 +21,7 @@ bin/
 gen/
 
 # Local configuration file (sdk path, etc)
-*.properties
+#*.properties
 
 ### Linux
 #########
@@ -59,3 +59,4 @@ pom.xml.*
 ### AppEngine
 google_generated/
 datanucleus.log 
+/local.properties
